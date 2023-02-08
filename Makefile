@@ -1,5 +1,5 @@
 DEBUG=JEKYLL_GITHUB_TOKEN=blank PAGES_API_URL=http://0.0.0.0
-ALIAS=Wangjt
+ALIAS=gentau.github.io
 
 help:
 	@echo "HomePage: https://github.com/gentau/${ALIAS}\n"
