@@ -1,18 +1,16 @@
 # Wangjt Blog
 
+![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
+![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
+Just another documentation theme compatible with GitHub Pages
 
-我的笔记本
+## What it does?
 
-## 日志
+This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
 
-记录生活
-
-
-## 微信公众号内容
-
-记录微信公众号发表文章
-
+- [@primer/css](https://github.com/primer/css)
+- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
 
 ## Quick start
 

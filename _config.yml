@@ -1,9 +1,7 @@
-remote_theme: rundocs/jekyll-rtd-theme
-
-title: Wangjt Blog
+title: jekyll-rtd-theme
 description: Just another documentation theme compatible with GitHub Pages
 
-# theme: null
+theme: null
 
 # debug:
 #   compress: true
