@@ -1,6 +1,10 @@
 # Wangjt Blog
 
-正在设置中
+正在设置中......
+
+以下内容来自rundocs/jekyll-rtd-theme主题内容，
+
+——————————————————————————————————————————————————————————————————
 
 ![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
