@@ -1,8 +1,8 @@
 DEBUG=JEKYLL_GITHUB_TOKEN=blank PAGES_API_URL=http://0.0.0.0
-ALIAS=jekyll-rtd-theme
+ALIAS=Wangjt
 
 help:
-	@echo "HomePage: https://github.com/rundocs/${ALIAS}\n"
+	@echo "HomePage: https://github.com/gentau/${ALIAS}\n"
 	@echo "Usage:"
 	@echo "    make [subcommand]\n"
 	@echo "Subcommands:"
