@@ -1,6 +1,6 @@
 # Wangjt Blog
 
-![CI](https://github.com/gentau/gentau.github.io/workflows/CI/badge.svg?branch=main)
+![CI](https://github.com/gentau/gentau.github.io/workflows/CI/badge.svg?branch=develop)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
 Just another documentation theme compatible with GitHub Pages
