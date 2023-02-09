@@ -35,7 +35,7 @@ sort: 1
 &emsp;&emsp;iSpec的安装环境需要配置相应的gcc、gfortran和python等库，具体的安装方法在官网和其中文使用手册中都有介绍，不再赘述。
 下面主要介绍一下本人在安装过程中遇到的问题。
 
-#### Ubuntu
+**Ubuntu**
 
 &emsp;&emsp;Ubuntu的安装使用的是[Anaconda](https://www.anaconda.com/)环境安装。iSpec的版本有多种，最新的python版本为3.7，老版本使用的是2.9。
 
@@ -62,7 +62,7 @@ sort: 1
 
 &emsp;&emsp;这里直接按照官网的安装步骤就可以了。
 
-#### MacOs
+**MacOs**
 
 &emsp;&emsp;本人使用的是Apple M1 Pro芯片，系统版本为 Venture 13.1版本。在安装过程中遇到编译错误。
 
