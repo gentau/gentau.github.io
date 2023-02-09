@@ -40,11 +40,11 @@ sort: 1
 
 - 使用conda在python 3.x下创建2.x环境:
 
-&emsp;&emsp;conda 创建环境的命令如下: conda create --name myenv setup
+&emsp;&emsp;conda 创建环境的命令如下: <font color=DarkTurquoise>conda create --name myenv env_setup</font>
 
-'conda create'是创建命令，'myenv'是创建环境的名字，'setup'是创建环境的设置。
+'conda create'是创建命令，'myenv'是创建环境的名字，'env_setup'是创建环境的设置。
 
-&emsp;&emsp;创建python 2.7环境的命令如下: conda create -n myenv python=2.7
+&emsp;&emsp;创建python 2.7环境的命令如下: <font color=DarkTurquoise>conda create -n myenv python=2.7</font>
 
 &emsp;&emsp;更加具体的方法见[conda使用文档](https://docs.conda.io/projects/conda/en/latest/index.html)中的[Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
 
