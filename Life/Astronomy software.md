@@ -7,7 +7,7 @@ sort: 1
 
 ## iSpec
 
-### 简介 （以下内容来自[iSpec中文使用手册网站](https://iscottmark.github.io/iSpec/)）
+### 简介 （本节内容来自[iSpec中文使用手册网站](https://iscottmark.github.io/iSpec/)）
 
 &emsp;&emsp;iSpec 是一个用于光谱分析的开源框架（[Blanco-Cuaresma et al. 2014a](https://ui.adsabs.harvard.edu/abs/2014A%26A...569A.111B/abstract), [Blanco-Cuaresma 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.2075B/abstract)）。它适用于建立诸如 Gaia FGK 基准恒星库一样的光谱库（[Blanco-Cuaresma et al 2014b](https://ui.adsabs.harvard.edu/abs/2014A%26A...566A..98B/abstract)），以及用于确定一些如有效温度、表面重力加速度、金属丰度和单个丰度等的天体物理参数。iSpec 结合了几个辐射转移代码用以生成合成光谱，以及从等值宽度中获取丰度。此外，iSpec 还可以从预先计算好的网格中进行光谱的插值。
 
