@@ -35,18 +35,32 @@ sort: 1
 
 #### python 2.9版本的iSpec安装：
 
-&emsp;&emsp; 现在大多数都在使用python 3.x以上环境，若是想要安装该版本iSpec可以在python 3.x环境下创建一个python 2.x的环境。
+&emsp;&emsp;现在大多数都在使用python 3.x以上环境，若是想要安装该版本iSpec可以在python 3.x环境下创建一个python 2.x的环境。
 在该环境下就可以安装官网步骤安装iSpec了，就是每次使用需要进入python 2.x环境。
 
 - 使用conda在python 3.x下创建2.x环境:
 
-&emsp;&emsp;conda 创建环境的命令如下: <font color=DarkTurquoise>conda create --name myenv env_setup</font>
+conda 创建环境的命令: <br> <font color=DarkTurquoise>conda create --name myenv env_setup</font>
 
 'conda create'是创建命令，'myenv'是创建环境的名字，'env_setup'是创建环境的设置。
 
-&emsp;&emsp;创建python 2.7环境的命令如下: <font color=DarkTurquoise>conda create -n myenv python=2.7</font>
+创建python 2.7环境的命令: <br><font color=DarkTurquoise>conda create -n myenv python=2.7</font>
 
-&emsp;&emsp;更加具体的方法见[conda使用文档](https://docs.conda.io/projects/conda/en/latest/index.html)中的[Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
+更加具体的方法见[conda使用文档](https://docs.conda.io/projects/conda/en/latest/index.html)中的[Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
+
+#### python 3.x版本的iSpec安装：
+
+&emsp;&emsp;这里直接按照官网的安装步骤就可以了。
+
+### MacOs
+
+&emsp;&emsp;本人使用的是Apple M1 Pro芯片，系统版本为 Venture 13.1版本。在安装过程中遇到编译错误。
+
+- 错误 1:
+
+- 错误 2:
+
+- 错误 3:
 
 
 
