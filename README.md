@@ -1,13 +1,31 @@
 # Wangjt Blog
 
-正在设置中......
+
+
+## 介绍
+
+无意中发现github中可以设置自己的简易网站，就想着记录自己的所了解的东西，。
+
+
+
+## Astronomy software
+
+1. iSpec 程序
+
+2. TOPCAT
+
+3. MESA
+
+
+
+
+
+正在补充中......
 
 以下内容来自rundocs/jekyll-rtd-theme主题内容，
 
 ——————————————————————————————————————————————————————————————————
 
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
 Just another documentation theme compatible with GitHub Pages
 
