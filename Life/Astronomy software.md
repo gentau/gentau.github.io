@@ -24,16 +24,16 @@ sort: 1
 
 官方网站: [https://www.blancocuaresma.com/s/iSpec](https://www.blancocuaresma.com/s/iSpec)
 
-## 安装
+### 安装
 
 &emsp;&emsp;iSpec的安装环境需要配置相应的gcc、gfortran和python等库，具体的安装方法在官网和其中文使用手册中都有介绍，不再赘述。
 下面主要介绍一下本人在安装过程中遇到的问题。
 
-### Ubuntu
+#### Ubuntu
 
 &emsp;&emsp;Ubuntu的安装使用的是[Anaconda](https://www.anaconda.com/)环境安装。iSpec的版本有多种，最新的python版本为3.7，老版本使用的是2.9。
 
-#### python 2.9版本的iSpec安装：
+##### python 2.9版本的iSpec安装：
 
 &emsp;&emsp;现在大多数都在使用python 3.x以上环境，若是想要安装该版本iSpec可以在python 3.x环境下创建一个python 2.x的环境。
 在该环境下就可以安装官网步骤安装iSpec了，就是每次使用需要进入python 2.x环境。
@@ -48,11 +48,11 @@ conda 创建环境的命令: <br> <font color=DarkTurquoise>conda create --name 
 
 更加具体的方法见[conda使用文档](https://docs.conda.io/projects/conda/en/latest/index.html)中的[Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
 
-#### python 3.x版本的iSpec安装：
+##### python 3.x版本的iSpec安装：
 
 &emsp;&emsp;这里直接按照官网的安装步骤就可以了。
 
-### MacOs
+#### MacOs
 
 &emsp;&emsp;本人使用的是Apple M1 Pro芯片，系统版本为 Venture 13.1版本。在安装过程中遇到编译错误。
 
