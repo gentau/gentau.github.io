@@ -10,7 +10,9 @@ sort: 1
 &emsp;&emsp; 光谱分析软件
 
 ### 简介 
-&emsp;&emsp;注意：本节内容来自[iSpec中文使用手册网站](https://iscottmark.github.io/iSpec/)。
+```note
+本节内容来自[iSpec中文使用手册网站](https://iscottmark.github.io/iSpec/)。
+```
 
 &emsp;&emsp;iSpec 是一个用于光谱分析的开源框架（[Blanco-Cuaresma et al. 2014a](https://ui.adsabs.harvard.edu/abs/2014A%26A...569A.111B/abstract), [Blanco-Cuaresma 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.2075B/abstract)）。它适用于建立诸如 Gaia FGK 基准恒星库一样的光谱库（[Blanco-Cuaresma et al 2014b](https://ui.adsabs.harvard.edu/abs/2014A%26A...566A..98B/abstract)），以及用于确定一些如有效温度、表面重力加速度、金属丰度和单个丰度等的天体物理参数。iSpec 结合了几个辐射转移代码用以生成合成光谱，以及从等值宽度中获取丰度。此外，iSpec 还可以从预先计算好的网格中进行光谱的插值。
 
@@ -24,8 +26,9 @@ sort: 1
 - [MOOG](http://www.as.utexas.edu/~chris/moog.html) Chris Sneden
 - [Synthe/WIDTH9](http://atmos.obspm.fr/) Kurucz/Atmos
 
-
+```tip
 官方网站: [https://www.blancocuaresma.com/s/iSpec](https://www.blancocuaresma.com/s/iSpec)
+```
 
 ### 安装
 
@@ -43,13 +46,17 @@ sort: 1
 
 &emsp;&emsp;- 使用conda在python 3.x下创建2.x环境:
 
-&emsp;&emsp;conda 创建环境的命令: <br> &emsp;&emsp;<font color=DarkTurquoise>conda create --name myenv env_setup</font>
+&emsp;&emsp;conda 创建环境的命令: 
+> `conda create --name myenv env_setup`
 
 &emsp;&emsp;'conda create'是创建命令，'myenv'是创建环境的名字，'env_setup'是创建环境的设置。
 
-&emsp;&emsp;创建python 2.7环境的命令: <br>&emsp;&emsp;<font color=DarkTurquoise>conda create -n myenv python=2.7</font>
+&emsp;&emsp;创建python 2.7环境的命令: 
+> `conda create -n myenv python=2.7`
 
+```tip
 更加具体的方法见[conda使用文档](https://docs.conda.io/projects/conda/en/latest/index.html)中的[Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
+```
 
 2. python 3.x版本的iSpec安装：
 
