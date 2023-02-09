@@ -7,6 +7,8 @@ sort: 1
 
 ## iSpec
 
+&emsp;&emsp; 光谱分析软件
+
 ### 简介 
 &emsp;&emsp;注意：本节内容来自[iSpec中文使用手册网站](https://iscottmark.github.io/iSpec/)。
 
