@@ -27,7 +27,7 @@ sort: 1
 - [Synthe/WIDTH9](http://atmos.obspm.fr/) Kurucz/Atmos
 
 ```tip
-官方网站: [https://www.blancocuaresma.com/s/iSpec](https://www.blancocuaresma.com/s/iSpec)
+iSpec官方网站: [https://www.blancocuaresma.com/s/iSpec](https://www.blancocuaresma.com/s/iSpec)
 ```
 
 ### 安装
