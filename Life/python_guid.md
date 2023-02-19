@@ -23,7 +23,7 @@ sort: 2
 
 
 
-# python 读取Gaia星表的 .fits 文件 并作图
+## python 读取fits格式的Gaia星表并作图
 参考教程：[教程](https://denekow.github.io/2022/02608dd537.html)
 
 1. 导入相关函数库
