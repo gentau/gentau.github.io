@@ -9,7 +9,7 @@ sort: 2
 - Windows OS
 1. Anaconda + vscode
 
-直接引用相关教程：[教程]{https://blog.csdn.net/Xuanqing_C/article/details/123973103}
+直接引用相关教程：[教程](https://blog.csdn.net/Xuanqing_C/article/details/123973103)
 
 2. WSL + Anaconda + vscode
 
@@ -24,7 +24,7 @@ sort: 2
 
 
 # python 读取Gaia星表的 .fits 文件 并作图
-参考教程：[教程]{https://denekow.github.io/2022/02608dd537.html}
+参考教程：[教程](https://denekow.github.io/2022/02608dd537.html)
 
 1. 导入相关函数库
  ```
@@ -40,7 +40,7 @@ gaia_data = fits.open() #读取fits文件`
 
 3. 查看文件中的参数以及参数名
 ```note
-fits文件结构的查询可以参考相关教程，[教程]{https://denekow.github.io/2022/02608dd537.html}
+fits文件结构的查询可以参考相关教程，[教程](https://denekow.github.io/2022/02608dd537.html)
 ```
 ```
 gaia_data[1].header
